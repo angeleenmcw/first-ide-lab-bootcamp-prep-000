@@ -1,1 +1,2 @@
-learn
+"Hello world!"
+"Angeleen is going to be a full stack developer"
